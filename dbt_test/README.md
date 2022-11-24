@@ -2,6 +2,8 @@ Welcome to your new dbt project!
 
 ### Using the starter project
 
+- Test for fork
+
 Try running the following commands:
 - dbt run
 - dbt test
